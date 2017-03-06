@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "pr": "pr-chief",
-    "test": "exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
